@@ -21,6 +21,13 @@ a:hover {
 }
 
 /* Business Card Styles */
+/* Center the heading */
+.business-card-heading {
+    text-align: center;
+    font-size: 2rem; /* You can adjust the font size */
+    margin-bottom: 20px; /* Adds some space below the heading */
+}
+
 .business-card {
 	width: 90%;
 	max-width: 300px;
